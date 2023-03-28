@@ -1,0 +1,6 @@
+1. Monolithic architecture is a unified architecture where there is no separation between services or components of the application.
+2. Microservice is a  piece of a larger application. In Microservice applications, the application is broken down into encapsulated microservices that can be maintained individually
+3. THe microservice architechture
+4. Yes Node.js is a multithreaded language
+5.  REPL - Read-Eval-Print Loop
+6. 
